@@ -474,30 +474,20 @@ button:hover{
         padding:6px 10px;
     }
 
-    #themeToggle{
-        width:42px;
-        height:42px;
-        top:12px;
-        left:12px;
-        font-size:18px;
-    }
+	#themeToggle{
+		display:none;
+	}
 
-    .toggle{
-        padding:8px 12px;
-        top:12px;
-        right:12px;
-        font-size:.85rem;
-    }
+	.theme-panel{
+		display:none;
+	}
 
-    .theme-panel{
-        width:220px;
-        height:100vh;
-        top:0;
-        left:0;
-        border-radius:0;
-        padding:16px;
-        transform:translateX(-100%);
-    }
+	.toggle{
+		padding:8px 12px;
+		top:12px;
+		right:12px;
+		font-size:.85rem;
+	}
 
     .theme-panel.open{
         transform:translateX(0);
