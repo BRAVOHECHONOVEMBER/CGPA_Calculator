@@ -1,2 +1,2 @@
-# CGPA_Calculator
-CGPA Calculator
+CGPA calculator for Nigerian Universities.
+Insert your semester grades and calculate your CGPA

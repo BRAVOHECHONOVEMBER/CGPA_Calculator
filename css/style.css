@@ -504,7 +504,7 @@ button:hover{
     }
 
     .color-picker{
-        display:none;
+        display:none !important;
     }
 
     .theme-buttons{
